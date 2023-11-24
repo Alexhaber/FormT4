@@ -219,6 +219,7 @@ public class FormLogin extends javax.swing.JFrame {
             else if(use.equals("Usuario") || passcod.equals("Contraseña"))
             {
                 err.setError("Ingrese su nombre de usuario y contraseña, sino tiene cuenta registrese.");
+                err.setVisible(true);
             }
             else
             {
