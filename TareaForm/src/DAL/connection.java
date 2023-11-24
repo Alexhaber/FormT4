@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 
 public class connection
 {
-	String strconnectDB = "jdbc:sqlite:C:\\Users\\Admin\\Documents\\TareaForm\\db\\registro_usuarios.s3db";
+	String strconnectDB = "jdbc:sqlite:db/registro_usuarios.s3db";
 	Connection conexion = null;
 	
 	public connection()

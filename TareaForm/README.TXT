@@ -15,3 +15,5 @@ en Neatbeans.
 java, el programa no funciona si no se tiene el path "jdbc:sqlite:C:\\Users\\Admin\\Documents\\TareaForm\\db\\registro_usuarios.s3db", por lo cual no funcionaria en 
 otra pc (no es que lo hiciera anteriormente). No entiendo nada de esto, no tiene sentido, porque me habia trabajado sin problemas con el path 
 "jdbc:sqlite:db\\registro_usuarios.s3db".
+
+*Nota2: Ya lo solucione por lo que se supone que antes mencionado no deberia de ocurrir.
